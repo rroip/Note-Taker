@@ -1,6 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "New Note",
+      "text": "Save a note",
+      "id": "eed73b8b-497f-4371-8314-bca7952e2b8c"
     }
-]
+  ]
+}
