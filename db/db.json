@@ -1,24 +1,14 @@
 {
   "notes": [
     {
+      "title": "",
+      "text": "",
+      "id": ""
+    },
+    {
       "title": "New Note",
-      "text": "Save a note",
-      "id": "eed73b8b-497f-4371-8314-bca7952e2b8c"
-    },
-    {
-      "title": "New note",
-      "text": "notes notes notes",
-      "id": "0a546ea7-45cd-4d31-8379-52908a26c401"
-    },
-    {
-      "title": "adsfasdf",
-      "text": "asdfaf",
-      "id": "036f0644-74cd-453d-972d-6a4187029dd1"
-    },
-    {
-      "title": "Test ",
-      "text": "test",
-      "id": "90a654e8-657e-451c-b520-ecfcb4421d07"
+      "text": "new text",
+      "id": "30612d02-9024-4b0c-adae-60a9b12cabf0"
     }
   ]
 }
