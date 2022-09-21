@@ -15,5 +15,17 @@
     "uuid": "^9.0.0"
   },
   "keywords": [],
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroip/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rroip/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/rroip/Note-Taker#readme",
   "description": ""
 }
